@@ -4,10 +4,6 @@ from tweepy.streaming import StreamListener
 from tweepy import Cursor
 
 
-ckey = 'bA85nhCE0oNX2LAaWsCaDpXB5'
-csecret = 'yme14hGPfh02Ltz1GHVVDIo901TD1kGOf6HREv6Yb92Q5J4axB'
-atoken = '115818322-bVwit9ICJ2KDjDodDNWmpxuu6L1jqBwME7zgA08G'
-asecret = 'MJeOtbjm2v4tduAWU4Z4zfQO1wUrCPZtrRjLVE9TJxAh4'
 
 ## this program gets real time tweets
 
